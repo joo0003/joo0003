@@ -21,8 +21,7 @@ My latest published articles are:
   International Journal of Environmental Research and Public Health  
   Published: 4 August 2020  
   
-- [Moodle LMS Integration with Amazon Alexa: A Practical Experience](https://doi.org/10.3390/app10196859) 
-  
+- [Moodle LMS Integration with Amazon Alexa: A Practical Experience](https://doi.org/10.3390/app10196859)  
   Applied Sciences    
   Published: 29 September 2020  
   
