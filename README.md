@@ -21,3 +21,7 @@ My latest published articles are:
 
   Published 4 August 2020 at _International Journal of Environmental Research and Public Health_ Journal
  
+- [Effectiveness of Using Voice Assistants in Learning: A Study at the Time of COVID-19](https://doi.org/10.3390/ijerph17155618) 
+
+  Published 4 August 2020 at _International Journal of Environmental Research and Public Health_ Journal
+ 
