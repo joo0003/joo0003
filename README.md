@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there. I’m Javier. I currently work as a Software Developer and carry on my PhD studies at the University of Burgos. 
+Hi there. I’m Javier. I currently work as a Software Developer and completing my PhD studies at the University of Burgos, researching on Voice User Interfaces and its potential when applied toward educational purposes. 
 
 My latest published articles are:
 
