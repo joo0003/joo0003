@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **joo0003/joo0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there. I’m Javier. I currently work as a Software Developer and carry on my PhD studies at the University of Burgos. 
+
+My latest published articles are:
+- 
