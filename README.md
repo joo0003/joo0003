@@ -17,8 +17,7 @@ Hi there. I’m Javier. I currently work as a Software Developer and completing 
 
 My latest published articles are:
 
-- [Effectiveness of Using Voice Assistants in Learning: A Study at the Time of COVID-19](https://doi.org/10.3390/ijerph17155618) 
-  
+- [Effectiveness of Using Voice Assistants in Learning: A Study at the Time of COVID-19](https://doi.org/10.3390/ijerph17155618)    
   International Journal of Environmental Research and Public Health  
   Published: 4 August 2020  
   
